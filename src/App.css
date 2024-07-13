@@ -1,0 +1,47 @@
+/* .container{
+    border:1px solid black;
+    padding:5px;
+} */
+.white{
+    background-color:rgb(255, 255, 255);
+    cursor:pointer;
+    color:white;
+    margin-left:5px;
+    margin-right:5px;
+    border:1px solid black;
+}
+
+.red{
+    background-color:red;
+    cursor:pointer;
+    color:red;
+    margin-left:5px;
+    margin-right:5px;
+}
+.green{
+    background-color:green;
+    cursor:pointer;
+    color:green;
+    margin-left:5px;
+    margin-right:5px;
+}
+.blue{
+    background-color:blue;
+    cursor:pointer;
+    color:blue;
+    margin-left:5px;
+    margin-right:5px;
+}
+.black{
+    background-color:black;
+    cursor:pointer;
+    color:black;
+    margin-left:5px;
+    margin-right:5px;
+}
+
+.footerpara{
+    margin-top:50px;
+    text-align:center;
+    font-weight:bold;
+}
